@@ -1,0 +1,10 @@
+after looking over the code, I noticed a mistake that invalidate the functionality of the scheduler
+
+on line in user_interface.py it says  ' @app.route("/") ' whereas it should be ' @app.route("/index") '
+
+If you are reading this then may I please get a chance to have my work graded with all aspects working
+
+I have updated the file in the repository. (the zip is the same file as the one uploaded to bart, and contains the error)
+
+Sincerely,
+Abdullah Qutob
