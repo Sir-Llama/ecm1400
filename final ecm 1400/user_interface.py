@@ -34,7 +34,7 @@ def when_to_update():
     return update_time_in_sec
 
 
-@app.route("/")
+@app.route("/index")
 def index_call():
     
     data_scheduler.run(blocking = False)
