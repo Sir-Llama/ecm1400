@@ -1,0 +1,10 @@
+{
+
+"apiKey": "96181e4c015447f183c4e27c3c91d366",
+"Title" : "Covid-19 Dashboard",
+"Image" : "covid_image.png",
+"Image_path" : "/static/images/covid_image.png",
+"areaName" : "Exeter",
+"areaType" : "ltla"
+
+}

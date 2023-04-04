@@ -1,0 +1,135 @@
+DEBUG: 2021-12-17 15:37:37,327 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 15:37:37,422 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=ltla;areaName=Exeter&structure=%7B%22newCases%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+DEBUG: 2021-12-17 15:37:37,425 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 15:37:37,521 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=nation;areaName=england&structure=%7B%22newCases%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+INFO: 2021-12-17 15:37:37,523 Covid data API Request
+DEBUG: 2021-12-17 15:37:37,525 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 15:37:37,590 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=ltla;areaName=Exeter&structure=%7B%22newCases%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+DEBUG: 2021-12-17 15:37:37,593 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 15:37:37,676 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=nation;areaName=england&structure=%7B%22newCases%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+INFO: 2021-12-17 15:37:37,678 Covid data API Request
+DEBUG: 2021-12-17 15:37:37,679 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 15:37:37,769 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=ltla;areaName=Exeter&structure=%7B%22newCases%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+DEBUG: 2021-12-17 15:37:37,772 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 15:37:37,861 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=nation;areaName=england&structure=%7B%22newCases%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+INFO: 2021-12-17 15:37:37,864 Covid data API Request
+DEBUG: 2021-12-17 15:37:37,865 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 15:37:37,929 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=ltla;areaName=Exeter&structure=%7B%22newCases%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+DEBUG: 2021-12-17 15:37:37,932 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 15:37:38,036 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=nation;areaName=england&structure=%7B%22newCases%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+INFO: 2021-12-17 15:37:38,043 127.0.0.1 - - [17/Dec/2021 15:37:38] "GET /index HTTP/1.1" 200 -
+INFO: 2021-12-17 15:37:38,229 127.0.0.1 - - [17/Dec/2021 15:37:38] "[36mGET /static/images/covid_image.png HTTP/1.1[0m" 304 -
+INFO: 2021-12-17 15:37:38,231 127.0.0.1 - - [17/Dec/2021 15:37:38] "[36mGET /static/images/covid_image.png HTTP/1.1[0m" 304 -
+INFO: 2021-12-17 15:37:43,527 new update scheduled
+INFO: 2021-12-17 15:37:43,527 Covid data API Request
+DEBUG: 2021-12-17 15:37:43,528 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 15:37:43,591 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=ltla;areaName=Exeter&structure=%7B%22newCases%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+DEBUG: 2021-12-17 15:37:43,594 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 15:37:43,683 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=nation;areaName=england&structure=%7B%22newCases%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+INFO: 2021-12-17 15:37:43,685 repeating updates every 24 hours
+DEBUG: 2021-12-17 15:37:43,686 Starting new HTTPS connection (1): newsapi.org:443
+DEBUG: 2021-12-17 15:37:45,148 https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=96181e4c015447f183c4e27c3c91d366 HTTP/1.1" 200 None
+INFO: 2021-12-17 15:37:45,149 News API request
+DEBUG: 2021-12-17 15:37:45,151 Starting new HTTPS connection (1): newsapi.org:443
+DEBUG: 2021-12-17 15:37:46,602 https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=96181e4c015447f183c4e27c3c91d366 HTTP/1.1" 200 None
+INFO: 2021-12-17 15:37:46,604 News API request
+INFO: 2021-12-17 15:37:46,604 Covid data API Request
+DEBUG: 2021-12-17 15:37:46,605 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 15:37:46,668 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=ltla;areaName=Exeter&structure=%7B%22newCases%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+DEBUG: 2021-12-17 15:37:46,671 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 15:37:46,748 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=nation;areaName=england&structure=%7B%22newCases%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+INFO: 2021-12-17 15:37:46,750 Covid data API Request
+DEBUG: 2021-12-17 15:37:46,751 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 15:37:46,839 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=ltla;areaName=Exeter&structure=%7B%22newCases%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+DEBUG: 2021-12-17 15:37:46,843 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 15:37:47,000 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=nation;areaName=england&structure=%7B%22newCases%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+INFO: 2021-12-17 15:37:47,002 Covid data API Request
+DEBUG: 2021-12-17 15:37:47,003 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 15:37:47,089 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=ltla;areaName=Exeter&structure=%7B%22newCases%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+DEBUG: 2021-12-17 15:37:47,092 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 15:37:47,166 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=nation;areaName=england&structure=%7B%22newCases%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+INFO: 2021-12-17 15:37:47,168 Covid data API Request
+DEBUG: 2021-12-17 15:37:47,169 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 15:37:47,254 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=ltla;areaName=Exeter&structure=%7B%22newCases%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+DEBUG: 2021-12-17 15:37:47,257 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 15:37:47,362 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=nation;areaName=england&structure=%7B%22newCases%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+INFO: 2021-12-17 15:37:47,364 127.0.0.1 - - [17/Dec/2021 15:37:47] "GET /index?update=15%3A39&two=dababy&repeat=repeat&covid-data=covid-data&news=news HTTP/1.1" 200 -
+INFO: 2021-12-17 15:37:47,389 127.0.0.1 - - [17/Dec/2021 15:37:47] "[36mGET /static/images/covid_image.png HTTP/1.1[0m" 304 -
+INFO: 2021-12-17 15:38:08,621  * Detected change in 'c:\\Users\\aboud\\OneDrive\\Desktop\\uni files\\programming\\final\\user_interface.py', reloading
+INFO: 2021-12-17 15:38:08,650  * Restarting with stat
+WARNING: 2021-12-17 15:38:08,968  * Debugger is active!
+INFO: 2021-12-17 15:38:08,970  * Debugger PIN: 777-166-886
+INFO: 2021-12-17 15:38:09,062  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG: 2021-12-17 15:38:47,469 Starting new HTTPS connection (1): newsapi.org:443
+DEBUG: 2021-12-17 15:38:48,085 https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=96181e4c015447f183c4e27c3c91d366 HTTP/1.1" 200 None
+INFO: 2021-12-17 15:38:48,087 News API request
+INFO: 2021-12-17 15:38:48,087 Covid data API Request
+DEBUG: 2021-12-17 15:38:48,088 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 15:38:49,040 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=ltla;areaName=Exeter&structure=%7B%22newCases%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+DEBUG: 2021-12-17 15:38:49,042 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 15:38:50,117 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=nation;areaName=england&structure=%7B%22newCases%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+INFO: 2021-12-17 15:38:50,119 Covid data API Request
+DEBUG: 2021-12-17 15:38:50,120 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 15:38:50,185 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=ltla;areaName=Exeter&structure=%7B%22newCases%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+DEBUG: 2021-12-17 15:38:50,188 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 15:38:50,298 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=nation;areaName=england&structure=%7B%22newCases%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+INFO: 2021-12-17 15:38:50,300 Covid data API Request
+DEBUG: 2021-12-17 15:38:50,301 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 15:38:50,381 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=ltla;areaName=Exeter&structure=%7B%22newCases%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+DEBUG: 2021-12-17 15:38:50,385 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 15:38:50,476 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=nation;areaName=england&structure=%7B%22newCases%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+INFO: 2021-12-17 15:38:50,479 Covid data API Request
+DEBUG: 2021-12-17 15:38:50,480 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 15:38:50,571 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=ltla;areaName=Exeter&structure=%7B%22newCases%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+DEBUG: 2021-12-17 15:38:50,574 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 15:38:50,640 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=nation;areaName=england&structure=%7B%22newCases%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+INFO: 2021-12-17 15:38:50,647 127.0.0.1 - - [17/Dec/2021 15:38:50] "GET /index HTTP/1.1" 200 -
+INFO: 2021-12-17 15:38:50,834 127.0.0.1 - - [17/Dec/2021 15:38:50] "[36mGET /static/images/covid_image.png HTTP/1.1[0m" 304 -
+INFO: 2021-12-17 15:39:48,712  * Detected change in 'c:\\Users\\aboud\\OneDrive\\Desktop\\uni files\\programming\\final\\user_interface.py', reloading
+INFO: 2021-12-17 15:39:48,739  * Restarting with stat
+WARNING: 2021-12-17 15:39:49,042  * Debugger is active!
+INFO: 2021-12-17 15:39:49,044  * Debugger PIN: 777-166-886
+INFO: 2021-12-17 15:39:49,133  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG: 2021-12-17 15:39:50,876 Starting new HTTPS connection (1): newsapi.org:443
+DEBUG: 2021-12-17 15:39:51,688 https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=96181e4c015447f183c4e27c3c91d366 HTTP/1.1" 200 None
+INFO: 2021-12-17 15:39:51,690 News API request
+INFO: 2021-12-17 15:39:51,690 Covid data API Request
+DEBUG: 2021-12-17 15:39:51,691 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 15:39:51,810 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=ltla;areaName=Exeter&structure=%7B%22newCases%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+DEBUG: 2021-12-17 15:39:51,813 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 15:39:51,904 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=nation;areaName=england&structure=%7B%22newCases%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+INFO: 2021-12-17 15:39:51,906 Covid data API Request
+DEBUG: 2021-12-17 15:39:51,907 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 15:39:51,991 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=ltla;areaName=Exeter&structure=%7B%22newCases%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+DEBUG: 2021-12-17 15:39:51,994 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 15:39:52,077 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=nation;areaName=england&structure=%7B%22newCases%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+INFO: 2021-12-17 15:39:52,079 Covid data API Request
+DEBUG: 2021-12-17 15:39:52,081 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 15:39:52,159 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=ltla;areaName=Exeter&structure=%7B%22newCases%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+DEBUG: 2021-12-17 15:39:52,162 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 15:39:52,252 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=nation;areaName=england&structure=%7B%22newCases%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+INFO: 2021-12-17 15:39:52,255 Covid data API Request
+DEBUG: 2021-12-17 15:39:52,256 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 15:39:52,374 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=ltla;areaName=Exeter&structure=%7B%22newCases%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+DEBUG: 2021-12-17 15:39:52,377 Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG: 2021-12-17 15:39:52,469 https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType=nation;areaName=england&structure=%7B%22newCases%22:%22newCasesByPublishDate%22,%22hospitalCases%22:%22hospitalCases%22,%22cumDeaths28DaysByPublishDate%22:%22cumDeaths28DaysByPublishDate%22%7D HTTP/1.1" 200 None
+INFO: 2021-12-17 15:39:52,482 127.0.0.1 - - [17/Dec/2021 15:39:52] "GET /index HTTP/1.1" 200 -
+INFO: 2021-12-17 15:39:52,697 127.0.0.1 - - [17/Dec/2021 15:39:52] "[36mGET /static/images/covid_image.png HTTP/1.1[0m" 304 -
+INFO: 2021-12-17 15:45:11,730  * Restarting with stat
+WARNING: 2021-12-17 15:45:12,069  * Debugger is active!
+INFO: 2021-12-17 15:45:12,071  * Debugger PIN: 777-166-886
+INFO: 2021-12-17 15:45:12,168  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO: 2023-04-04 18:24:50,927 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO: 2023-04-04 18:24:50,927 [33mPress CTRL+C to quit[0m
+INFO: 2023-04-04 18:24:50,934  * Restarting with stat
+WARNING: 2023-04-04 18:24:51,206  * Debugger is active!
+INFO: 2023-04-04 18:24:51,211  * Debugger PIN: 125-959-733
+INFO: 2023-04-04 18:25:01,459 127.0.0.1 - - [04/Apr/2023 18:25:01] "[33mGET / HTTP/1.1[0m" 404 -
+INFO: 2023-04-04 18:25:01,874 127.0.0.1 - - [04/Apr/2023 18:25:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO: 2023-04-04 18:25:23,397 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO: 2023-04-04 18:25:23,397 [33mPress CTRL+C to quit[0m
+INFO: 2023-04-04 18:25:23,402  * Restarting with stat
+WARNING: 2023-04-04 18:25:23,704  * Debugger is active!
+INFO: 2023-04-04 18:25:23,711  * Debugger PIN: 125-959-733
